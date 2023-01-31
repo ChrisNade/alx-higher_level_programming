@@ -2,7 +2,7 @@
 # 0-rectangle.py
 # ChrisNade christopheromonade@gmail.com
 
-"""Defines a Rectangle class."""
+"""Defines a Rectngle class."""
 
 class Rectangle:
 
